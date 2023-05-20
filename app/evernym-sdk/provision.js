@@ -16,7 +16,7 @@ export const SERVER_ENVIRONMENTS = {
     poolConfig: [{ key: 'staging', genesis: 'genesis_transactions' }],
   }
 }
-export const DEFAULT_SERVER_ENVIRONMENT = 'CUSTOM' 
+export const DEFAULT_SERVER_ENVIRONMENT = 'DEMO'
 
 
 // environment to use by default
