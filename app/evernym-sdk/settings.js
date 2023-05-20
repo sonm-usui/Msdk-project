@@ -20,7 +20,30 @@ export const HEADLINE = null
 //   }
 // ]
 // Predefined: Biometrics, Passcode, Feedback, About, Logs
-export const SETTINGS_OPTIONS = null
+export const SETTINGS_OPTIONS = [
+    {
+        name: 'About',
+    },
+    {
+        name: 'Biometrics',
+    },
+    {
+        name: 'Logs',
+    },
+    {
+        name: 'ManualBackup'
+    },
+    {
+       name: 'Feedback'
+    },
+    {
+       name: 'About'
+    },
+    {
+      name: 'Logs'
+    }
+]
+
 
 // flag indicating whether you want to show camera button.
 export const SHOW_CAMERA_BUTTON = true
