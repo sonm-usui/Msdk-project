@@ -35,12 +35,6 @@ export const SETTINGS_OPTIONS = [
     },
     {
        name: 'Feedback'
-    },
-    {
-       name: 'About'
-    },
-    {
-      name: 'Logs'
     }
 ]
 
