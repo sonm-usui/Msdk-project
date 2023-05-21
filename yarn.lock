@@ -823,7 +823,7 @@
 
 "@evernym/react-native-white-label-app@https://github.com/sonm-usui/React-native-white-label-app.git":
   version "1.1.1"
-  resolved "https://github.com/sonm-usui/React-native-white-label-app.git#7846f0b77b22cebb8e6f75ac2097b3e22be9b957"
+  resolved "https://github.com/sonm-usui/React-native-white-label-app.git#3d5d2463bd386760e47057c70c896dee7cdaa585"
   dependencies:
     "@evernym/react-native-sdk" "https://gitlab.com/evernym/mobile/mobile-sdk/-/package_files/26633365/download"
     "@evernym/react-native-white-label-app" "https://gitlab.com/evernym/mobile/react-native-white-label-app.git"
