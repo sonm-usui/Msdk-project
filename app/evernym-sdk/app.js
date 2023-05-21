@@ -21,7 +21,7 @@ export const DEFAULT_USER_AVATAR = require('../../assets/icon.png')
 export const STORAGE_KEY = null
 
 // whether you want to use Firebase Push Notifications
-export const USE_PUSH_NOTIFICATION = true
+export const USE_PUSH_NOTIFICATION = null
 
 export const PUSH_NOTIFICATION_PERMISSION_SCREEN_IMAGE_IOS = null
 
